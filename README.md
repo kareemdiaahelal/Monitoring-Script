@@ -62,19 +62,11 @@ Edit
 0 * * * * /path/to/your/script/system_monitor.sh -t 80 -f /path/to/output.log
 Make sure to replace /path/to/your/script/ and /path/to/output.log with the actual paths on your system.
 
+
+![image](https://github.com/user-attachments/assets/ad52348d-7af3-4bc5-ac7e-3ddb60883b9c)
+![image](https://github.com/user-attachments/assets/bb708b2f-cea3-4f41-8383-48d38b014bce)
+
 Example Output
-yaml
-Copy
-Edit
-Disk Usage:
-Disk Usage: 85%
-WARNING: Disk usage is above 80%
-CPU usage is: 72.45%
-Memory Usage is: Total: 8G, Used: 4G, Free: 2G
-Top 5 Running processes are:
-  PID USER   %MEM COMMAND
-  1234 user1  15.3 process1
-  5678 user2  12.8 process2
-  9101 user3   9.5 process3
-  1121 user4   8.9 process4
-  3141 user5   7.1 process5
+![image](https://github.com/user-attachments/assets/a4b8a774-2f4f-4f13-b936-f11942ffc8c1)
+![image](https://github.com/user-attachments/assets/f04757d6-3906-407f-b5c9-e4e0cd002608)
+
